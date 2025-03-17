@@ -10,7 +10,16 @@ A modern, responsive landing page for SmartPOS - a Point of Sale System built wi
 - 🔍 SEO friendly
 - 🎯 Clear call-to-actions
 - 📊 Pricing tables
-- 📝 Contact form
+- 📝 Enhanced contact forms
+
+## Pages
+
+- `index.html` - Main landing page with features and pricing
+- `contact.html` - Dedicated contact page with:
+  - Detailed contact form
+  - Business contact information
+  - FAQ section
+  - Office location details
 
 ## Live Demo
 
@@ -23,13 +32,31 @@ Visit the live demo at: https://fakharkhan.github.io/smart-pos-landing
 git clone https://github.com/fakharkhan/smart-pos-landing.git
 ```
 
-2. Open `index.html` in your browser
+2. Open any of the HTML files in your browser:
+- `index.html` for the main landing page
+- `contact.html` for the contact page
 
 ## Technologies Used
 
 - HTML5
-- Tailwind CSS
+- Tailwind CSS 2.2.19
 - Modern CSS Features (Flexbox, Grid, etc.)
+- SVG icons for contact information
+
+## Features
+
+### Landing Page
+- Hero section with clear value proposition
+- Feature highlights
+- Pricing plans
+- Basic contact form
+
+### Contact Page
+- Comprehensive contact form with multiple fields
+- Business hours and contact information
+- Office location details
+- Frequently Asked Questions section
+- Social media links
 
 ## License
 
